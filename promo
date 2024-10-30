@@ -3,139 +3,18 @@
 <title>The promo notifications channel</title>
 <link/>
 <description>The channel provides a pop-up notifications for WoT Blitz client </description>
-  
-<language>uk</language>
-<lastBuildDate>Wed, 30 Oct 2024 16:50:49 -0000</lastBuildDate>
+<language>zh-cn</language>
+<lastBuildDate>Wed, 30 Oct 2024 17:52:00 -0000</lastBuildDate>
 <item>
-<title>Приховані й смертоносні</title>
-<link>wotblitz://shop/iap/a_rex_prog46_oct24_vcgold</link>
-<description>Створені для приголомшливих перемог! Влучна рухлива AMX CDA 105 і пробивна TS-60 з міцною лобовою бронею швидко й ефективно очистять мапу від слідів ворожої команди!</description>
-<pubDate>Wed, 30 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3188</guid>
-<expirationDate>Wed, 13 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>2</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Promo-TS-60-AMX-CANON-DASSAUT-105_2048х1536.jpg</icon>
-</source>
-</item>
-<item>
-<title>Трансляції Blitz Masters: Legends I</title>
-<link>wotblitz://news/blitz-masters-legends-streams</link>
-<description>Дивись стрими й отримуй нагороди!</description>
+<title>Luxury Lounge</title>
+<link>wotblitz://events/2024-SRR10</link>
+<description>Nice Cock, bro</description>
 <pubDate>Tue, 29 Oct 2024 09:00:00 -0000</pubDate>
 <guid>promo/3187</guid>
 <expirationDate>Thu, 31 Oct 2024 18:00:00 -0000</expirationDate>
 <showTimes>2</showTimes>
 <source>
 <icon>https://media-wbp.wgcdn.co/media/filer_public/images/2048x1536-Season_5_tournaments.jpg</icon>
-</source>
-</item>
-<item>
-<title>Невидима загроза</title>
-<link>wotblitz://shop/iap/ts5_2684_special_offer</link>
-<description>Object 268/4 і TS-5 — потужні ПТ-САУ, які не лишають супротивникам жодного шансу. Додай їх до своєї колекції та насолоджуйся перемогами!</description>
-<pubDate>Tue, 29 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3184</guid>
-<expirationDate>Tue, 26 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Promo-TS-5-Object-268_4_2048х1536.jpg</icon>
-</source>
-</item>
-<item>
-<title>Британські контейнери</title>
-<link>wotblitz://shop/iap/ch_uk_15_vcgold</link>
-<description>У кожному — корисні ресурси та шанс отримати потужну британську машину! А ще відкрий 30 контейнерів та отримай сертифікат із гарантованим танком!</description>
-<pubDate>Mon, 28 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3182</guid>
-<expirationDate>Mon, 11 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/UK_Chests_2048x1536.jpg</icon>
-</source>
-</item>
-<item>
-<title>Містичний набір</title>
-<link>wotblitz://shop/iap/mystery_hlwch_special_offer</link>
-<description>Містичний сертифікат у поганій компанії! Ой, тобто з контейнерами «Погана компанія». І вся ця краса зверху присипана золотом. Забирай!</description>
-<pubDate>Mon, 28 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3166</guid>
-<expirationDate>Fri, 01 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Mystery-CertificateGoldHalloween-Chests-promo.jpg</icon>
-</source>
-</item>
-<item>
-<title>Object 260 Pike</title>
-<link>wotblitz://shop/iap/ob260_oct24_special_offer</link>
-<description>Динамічний, міцний і пробивний Object 260 готовий до бою!</description>
-<pubDate>Fri, 25 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3181</guid>
-<expirationDate>Fri, 08 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Object_260_in_Pike_Camo_promo_2048x1536.jpeg</icon>
-</source>
-</item>
-<item>
-<title>Карент муд: Гелловін!</title>
-<link>wotblitz://shop/iap/hsb_vcgold</link>
-<description>Ми зібрали для тебе все необхідне для святкування, включно з обвісами й камуфляжем у тематиці Гелловіну для моторошних розваг!</description>
-<pubDate>Thu, 24 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3173</guid>
-<expirationDate>Fri, 01 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Halloween-Special-promo.jpg</icon>
-</source>
-</item>
-<item>
-<title>Невпинна сила</title>
-<link>wotblitz://shop/iap/m6a2e1_pm10_oct24_vcgold</link>
-<description>M6A2E1 й Panther/M10 готові виборювати для тебе перемоги! Випробуй їх у боях!</description>
-<pubDate>Wed, 23 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3183</guid>
-<expirationDate>Wed, 06 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Promo-Art-M6A2E1--PantherM10_2048х1536.jpg</icon>
-</source>
-</item>
-<item>
-<title>Strv K Konung</title>
-<link>wotblitz://shop/iap/strvk_oct24_special_offer</link>
-<description>Зі скорострільною й пробивною гарматою, міцною баштою і гарною рухливістю величний важкий танк Strv K готовий до переможних походів!</description>
-<pubDate>Tue, 22 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3174</guid>
-<expirationDate>Tue, 05 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/STRV-K-2048_1536.jpg</icon>
-</source>
-</item>
-<item>
-<title>Джерело капіталу</title>
-<link>wotblitz://shop/iap/resource_19_1_special_offer</link>
-<description>Тут знайдеш золото, бустери золота, сертифікати «х5 досвіду» і Мегаконтейнери. Запасайся ресурсами й заробляй іще більше! Відкривай Мегаконтейнери з шансом отримати обвіси, більше контейнерів, ключі від замкнених контейнерів та техніку V–X рівня!</description>
-<pubDate>Tue, 29 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3185</guid>
-<expirationDate>Tue, 05 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Gold__Gold_Boosters__x5_2048x1536.jpg</icon>
-</source>
-</item>
-<item>
-<title>Контейнер «Відпад!»</title>
-<link>wotblitz://shop/iap/awe10_vcgold</link>
-<description>Має таке ім'я невипадково: всередині може знайтися стііільки всього відпадного! Контейнери з технікою, до 100 000 золота, Ключ від Замкненого контейнера, потужна техніка VII–X рівнів… Мерщій відкривай — випробуй удачу!</description>
-<pubDate>Mon, 21 Oct 2024 07:00:00 -0000</pubDate>
-<guid>promo/3172</guid>
-<expirationDate>Mon, 04 Nov 2024 06:50:00 -0000</expirationDate>
-<showTimes>1</showTimes>
-<source>
-<icon>https://media-wbp.wgcdn.co/media/filer_public/images/Awesome_container_2048x1536.jpg</icon>
 </source>
 </item>
 </channel>
